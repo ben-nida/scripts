@@ -1,4 +1,4 @@
-#!/bin/bash/
+#!/bin/bash
 YL='\033[1;33m'
 now=$(date +"%Y%m%d")
 mkdir /tmp/nida-live-backup
