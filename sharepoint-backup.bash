@@ -9,4 +9,4 @@ rclone copy "/tmp/nida-live-backup/NIDA-Live-$now.tar.gz"  nida-live-backup2:Bac
 sudo /opt/bitnami/ctlscript.sh start
 rm -r /tmp/nida-live-backup
 printf "${YL}Done${NC}"
-echo
+echo #for new line
